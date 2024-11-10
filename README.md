@@ -1,2 +1,2 @@
-Hello, you are and Hacker,
+Hello, if you are and Hacker,
 try this...
